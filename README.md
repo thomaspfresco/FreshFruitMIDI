@@ -2,5 +2,5 @@
 
 ## Circuito
 
-![circuito](image url "circuito.png")
+![circuito](circuito.png "Title")
 
